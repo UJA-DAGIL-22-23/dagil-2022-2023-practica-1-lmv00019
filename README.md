@@ -10,6 +10,5 @@ Tus tareas consisten en:
 
 Profesor del departamento de Informática de la Universidad de Jaén.
 * **Correo**: lmv00019@red.ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
+* **GitHub**: https://github.com/lmv00019
 * **Trello**: https://trello.com/vrivas_ujaen_es
