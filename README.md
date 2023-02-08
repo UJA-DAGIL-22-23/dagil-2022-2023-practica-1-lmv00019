@@ -12,3 +12,15 @@ Profesor del departamento de Informática de la Universidad de Jaén.
 * **Correo**: lmv00019@red.ujaen.es
 * **GitHub**: https://github.com/lmv00019
 * **Trello**: https://trello.com/b/r4xR5scI/pr%C3%A1ctica-1
+
+
+* **Captura trello al principio**:
+<img src='/capturatrelloprincipio.jpg' width='200px'>
+
+
+* **Captura inicio GitHub**:
+<img src='/capturagithub.jpg' width='200px'>
+
+
+* **Captura trello al final**:
+<img src='/capturatrellofinal.jpg' width='200px'> 
